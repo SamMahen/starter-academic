@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/SamMahen/SamMahen.github.io.git
+	branch = main
